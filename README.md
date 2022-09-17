@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Punit Soni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitsoni22&label=Profile%20views&color=0e75b6&style=flat" alt="punitsoni22" /> </p>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punitsoni22" alt="punitsoni22" /></a> </p>
